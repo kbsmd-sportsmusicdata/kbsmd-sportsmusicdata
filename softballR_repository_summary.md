@@ -58,8 +58,28 @@ Team rosters with player information (2021-2023)
 
 ## Portfolio Project Ideas
 
-### Project 1: NCAA Softball Win Probability Model
-Build a live win probability model using the play-by-play data. Calculate win expectancy at each game state based on inning, score differential, and base/out situations. Create visualizations showing win probability charts for notable games. *Tech stack: Python/R, statistical modeling, interactive viz with Plotly or Shiny*
+### Project 1: 2024 Season Recap + 2025 Preview Dashboard
+A timely, fan-focused project combining historical win probability analysis with forward-looking season preview content.
+
+**Part A: "Best of 2024" Season Recap**
+- **Most Dramatic Games**: Identify games with the largest win probability swings—comebacks, walk-offs, extra-inning thrillers
+- **Clutch Performers**: Players with best stats in high-leverage situations (late innings, close games, RISP)
+- **Conference Highlights**: Which conferences had the most competitive games? Biggest upsets by win probability differential?
+
+**Part B: 2025 Season Preview**
+- **Returning Stars**: Cross-reference 2024 player box scores with roster data to identify top performers coming back
+- **Teams to Watch**: Programs that overperformed their preseason ranking vs final RPI
+- **Opening Weekend Matchups**: Highlight marquee early-season games
+
+**Why This Works**: Timely content fans want right now, demonstrates end-to-end data skills (historical analysis → predictive framing), and has natural social media shareability ("The 10 wildest games of 2024").
+
+**Technical Approach**:
+1. Pull 2024 play-by-play via `load_ncaa_softball_pbp(2024)`
+2. Calculate win probability at each game state using historical base rates
+3. Flag games where win prob crossed 50% multiple times or had >40% swings
+4. Build Shiny app or static site with interactive game visualizations
+
+*Tech stack: R/Python, statistical modeling, Shiny or Plotly Dash, potential social media integration*
 
 ### Project 2: Conference Performance Dashboard
 Create an interactive dashboard comparing conference strength across multiple metrics: RPI rankings, non-conference winning percentage, postseason success rates, and player statistical averages. Include year-over-year trends from 2016-2024. *Tech stack: Tableau/Power BI or R Shiny, data aggregation, comparative analytics*
