@@ -7,14 +7,20 @@ Data sourced from [sportsdataverse/softballR](https://github.com/sportsdataverse
 ```
 data/
 ├── ncaa_team_info.csv          # All teams, all seasons (2012-2025)
+├── rankings_README.md          # Rankings data sources and limitations
 ├── 2024/
 │   ├── ncaa_scoreboard_2024.csv
 │   ├── d1_hitting_box_scores_2024.csv
 │   └── d1_pitching_box_scores_2024.csv
-└── 2025/
-    ├── ncaa_scoreboard_2025.csv
-    ├── d1_hitting_box_scores_2025.csv
-    └── d1_pitching_box_scores_2025.csv
+├── 2025/
+│   ├── ncaa_scoreboard_2025.csv
+│   ├── d1_hitting_box_scores_2025.csv
+│   ├── d1_pitching_box_scores_2025.csv
+│   ├── ncaa_rpi_rankings_2025.csv        # Final 2025 RPI Top 25
+│   └── d1softball_top25_2025_final.csv   # Final D1Softball Poll
+└── 2026/
+    ├── preseason_rankings_2026.csv       # Multi-source preseason rankings
+    └── d1softball_preseason_top25_2026.csv # D1Softball Preseason Top 25
 ```
 
 ## Dataset Sizes
