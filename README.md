@@ -1,8 +1,6 @@
 # 👋 Cheers, I'm Krystal — Sports Analyst. Storyteller. Stat Decoder.
 
-Women’s basketball analytics builder focused on player evaluation, scouting profiles, roster strategy, and data storytelling for emerging and developmental women's leagues.
-
-I build decision-ready tools for lean sports organizations: player intel dashboards, team prep reports, tryout/combine evaluation tools, roster tracking systems, and broadcast/media stat packets.
+Women’s basketball analytics builder focused on player evaluation, scouting profiles, roster strategy, media stat packets, and data storytelling for emerging and developmental women's leagues by building decision-ready tools for lean sports organizations.
 
 <br>
 
@@ -32,27 +30,21 @@ I build decision-ready tools for lean sports organizations: player intel dashboa
 
 ## 💡 Current Focus
 
-Building portfolio-ready women’s basketball analytics tools that translate raw data into scouting, player development, roster planning, and storytelling decisions.
+Building portfolio-ready women’s basketball analytics tools that translate raw data into scouting, player development, roster planning, and storytelling decisions. I’m passionate about **elevating women’s sports** through engaging data storytelling and with deeper data. I believe that statistics shouldn’t be gatekept — they should **bring people closer to the game**.
 
 <br>
 
 ## 🛠️ Tools & Skills
 
-Python · pandas · SQL/BigQuery · Tableau · Looker Studio · GitHub Actions · Notion · Figma · 
-- **Languages & Libraries**: Python (Pandas, NumPy, Scikit-learn), SQL, Google Sheets, Excel
+- **Languages & Libraries**: Python (Pandas, NumPy, Scikit-learn), SQL, BigQuery, Google Sheets, Excel
 - **Data Viz & Dashboards**: Tableau Public, Looker Studio
-- **Workflow & Storytelling**: GitHub, Notion, AI tools
-- **Key Strengths**: Data cleaning • Basketball analysis • Visualization • Betting logic • Sports modeling • Sports statsistics • Narrative framing
+- **Workflow & Storytelling**: GitHub, Notion, Figma, AI tools
+- **Key Strengths**: Data cleaning • Basketball analysis • Visualization • Building dashboards • Sports predictive modeling • Sports statistics models • Communicating Data Insights • Editorial data stories
 
 <br>
 
-## 💡 What I Care About
-I’m passionate about **elevating women’s sports** through smarter storytelling and deeper data. I believe that statistics shouldn’t be gatekept — they should **bring people closer to the game**.
-
-- 🌱 I’m currently learning ...
-- ⚡ Fun fact: ...
-
-## 🔍 Let's Connect
+## 🔍  Let's Connect
+Open to helping developmental women’s basketball leagues build analytics infrastructure
 
 Email: hey@krystalbcreative.com  
 LinkedIn: https://www.linkedin.com/in/krystalbeasley/  
