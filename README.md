@@ -44,7 +44,7 @@ Building portfolio-ready women’s basketball analytics tools that translate raw
 <br>
 
 ## 🔍  Let's Connect
-Open to helping developmental women’s basketball leagues build analytics infrastructure
+Open to helping developmental women’s basketball leagues build their analytics infrastructure.
 
 Email: hey@krystalbcreative.com  
 LinkedIn: https://www.linkedin.com/in/krystalbeasley/  
