@@ -172,7 +172,7 @@ with tempfile.NamedTemporaryFile(suffix='.rds', delete=False) as tmp:
     "away_team_runs": {"type": "string", "nullable": true},
     "home_team_runs": {"type": "string", "nullable": true},
     "events": {"type": "string", "nullable": true, "note": "Raw play description text"},
-    "play_id": {"type": "string", "nullable": false, "format": "{game_id}_{inning}_{half}_{seq}"},
+    "play_id": {"type": "string", "nullable": false, "format": "{game_id}_{inning}_{half}_{sequence}"},
     "game_date": {"type": "string", "nullable": false}
   }
 }
