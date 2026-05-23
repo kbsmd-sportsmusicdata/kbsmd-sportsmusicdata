@@ -31,9 +31,9 @@ Building portfolio-ready women’s basketball analytics tools that translate raw
 ## 🛠️ Tools & Skills
 
 Python · pandas · SQL/BigQuery · Tableau · Looker Studio · GitHub Actions · Notion · Figma · 
-- **Languages & Libraries**: Python (Pandas, NumPy, Scikit-learn), SQL, Google Sheets
-- **Data Viz & Dashboards**: Tableau Public, Looker Studio, Excel
-- **Workflow & Storytelling**: GitHub, Notion, Canva
+- **Languages & Libraries**: Python (Pandas, NumPy, Scikit-learn), SQL, Google Sheets, Excel
+- **Data Viz & Dashboards**: Tableau Public, Looker Studio
+- **Workflow & Storytelling**: GitHub, Notion, AI tools
 - **Key Strengths**: Data cleaning • Basketball analysis • Visualization • Betting logic • Sports modeling • Sports statsistics • Narrative framing
 
 💡 What I Care About
