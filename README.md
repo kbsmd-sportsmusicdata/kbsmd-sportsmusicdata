@@ -27,12 +27,12 @@ A lightweight analytics framework for developmental women’s basketball leagues
 
 | Project | Use Case | Output |
 |---|---|---|
-| Development Report: Lulu Twidale (Cal), WBB 2024-2026 | Player evaluation + development analysis, prospect/pathway analysis | Interactive notebook + player cards |
+| Development Report: Lulu Twidale (Cal), WBB 2024-2026 | Player evaluation + development analysis, prospect/pathway analysis, decision-support analytics | Interactive notebook + player cards |
 | Player Intel / Radar Profiles, WBB 2026 | Player evaluation + development | Notebook + player cards |
-| Undervalued Contract Analysis, WNBA 2024-2026 | Hidden value player evaluation + comps salary | Notebook + charts |
+| Hidden Value Player Contract Analysis, WNBA 2024-2026 | On/off contextual player impact + comps salary, decision-support analytics | Notebook + charts |
 | Roster Value Framework, WNBA 2026 | Roster construction + hidden value context | Notebook + charts |
-| AP Polls Pipeline, WBB 2025-26 | Automated reporting | Python pipeline + data outputs |
-| Recruiting + Development Impact, WBB | Prospect/pathway analysis | Dashboard + model outputs |
+| AP Polls Pipeline, WBB 2025-26 | Automated reporting, current + historical AP Polls data | Python pipeline + data outputs |
+| Recruiting + Development Impact, WBB | Prospect/pathway analysis, decision-support analytics | Dashboard + model outputs |
 | NCAA D1 Women's Sports Dashboard, 2012-2025 | League infrastructure analytics | Interactive dashboard, features 🏀🥎⚽🏐 | 
 <br>
 
@@ -57,9 +57,7 @@ Open to helping developmental women’s basketball leagues build their analytics
 📬 **Email**: hey@krystalbcreative.com  
 **LinkedIn**: https://www.linkedin.com/in/krystalbeasley/  
 **Tableau Public**: [add link]  
-**Portfolio: [add link]
-
- [LinkedIn](#) • [Tableau Public](#) • [Blog/Website](#)
+**Portfolio**: [add link]
 
 ---
 > “A lot of people notice when you succeed, but they don't see what it takes to get there."  -  Dawn Staley
