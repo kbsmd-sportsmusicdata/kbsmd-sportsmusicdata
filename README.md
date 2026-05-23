@@ -4,29 +4,37 @@ Women’s basketball analytics builder focused on player evaluation, scouting pr
 
 I build decision-ready tools for lean sports organizations: player intel dashboards, team prep reports, tryout/combine evaluation tools, roster tracking systems, and broadcast/media stat packets.
 
+<br>
+
 ## 🏀 How I Can Support a Developmental League
 
 - Player performance reports and scouting profiles
 - Team and opponent prep dashboards
 - Combine/Tryout evaluation tools
 - Roster and player development tracking
-- Draft/pro-placement player summaries
+- Draft/pro-placement player summaries, historical & current
 - Broadcast/media stat packets and player storylines
-- League storytelling data visuals for social, sponsorship, and fan engagement
+- League storytelling custom data visuals for front office, social, and fan engagement
+<br>
 
 ## 📊 Featured Basketball Analytics Projects
 
 | Project | Use Case | Output |
 |---|---|---|
-| WBB Player Intel / Radar Profiles | Player evaluation + development | Dashboard + player cards |
-| WNBA 2026 Roster Value Framework | Roster construction + hidden value | Notebook + charts |
-| WBB Polls + PBP Pipeline | Automated reporting | Python pipeline + data outputs |
-| Recruiting + Development Impact | Prospect/pathway analysis | Dashboard + model outputs |
-| Coaching Pipeline Dashboard | League infrastructure analytics | Interactive dashboard |
+| Development Report: Lulu Twidale (Cal) | Player evaluation + development | Dashboard + player cards |
+| Player Intel / Radar Profiles, WBB 2026 | Player evaluation + development | Dashboard + player cards |
+| Undervalued Contract Analysis, WNBA 2026 | Hidden value player evaluation + salary comps | Notebook + charts |
+| Roster Value Framework, WNBA 2026 | Roster construction + hidden value | Notebook + charts |
+| AP Polls Pipeline, WBB 2025-26 | Automated reporting | Python pipeline + data outputs |
+| Recruiting + Development Impact, WBB | Prospect/pathway analysis | Dashboard + model outputs |
+| NCAA D1 Women's Sports Dashboard | League infrastructure analytics | Interactive dashboard, features 🏀🥎⚽🏐 | 
+<br>
 
 ## 💡 Current Focus
 
 Building portfolio-ready women’s basketball analytics tools that translate raw data into scouting, player development, roster planning, and storytelling decisions.
+
+<br>
 
 ## 🛠️ Tools & Skills
 
@@ -36,7 +44,9 @@ Python · pandas · SQL/BigQuery · Tableau · Looker Studio · GitHub Actions �
 - **Workflow & Storytelling**: GitHub, Notion, AI tools
 - **Key Strengths**: Data cleaning • Basketball analysis • Visualization • Betting logic • Sports modeling • Sports statsistics • Narrative framing
 
-💡 What I Care About
+<br>
+
+## 💡 What I Care About
 I’m passionate about **elevating women’s sports** through smarter storytelling and deeper data. I believe that statistics shouldn’t be gatekept — they should **bring people closer to the game**.
 
 - 🌱 I’m currently learning ...
@@ -54,7 +64,7 @@ Portfolio: [add link]
 📬 [LinkedIn](#) • [Tableau Public](#) • [Blog/Website](#)
 
 ---
-> “The numbers never lie — but it takes a good storyteller to make them speak.”
+> “A lot of people notice when you succeed, but they don't see what it takes to get there."  -  Dawn Staley
 
 <!---
 kbsmd-sportsmusicdata/kbsmd-sportsmusicdata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
