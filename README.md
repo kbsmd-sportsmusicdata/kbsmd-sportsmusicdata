@@ -19,18 +19,18 @@ Women’s basketball analytics builder focused on player evaluation, scouting pr
 
 | Project | Use Case | Output |
 |---|---|---|
-| Development Report: Lulu Twidale (Cal) | Player evaluation + development | Dashboard + player cards |
-| Player Intel / Radar Profiles, WBB 2026 | Player evaluation + development | Dashboard + player cards |
-| Undervalued Contract Analysis, WNBA 2026 | Hidden value player evaluation + salary comps | Notebook + charts |
+| Development Report: Lulu Twidale (Cal), WBB 2024-2026 | Player evaluation + development analysis, prospect/pathway analysis | Interactive notebook + player cards |
+| Player Intel / Radar Profiles, WBB 2026 | Player evaluation + development | Notebook + player cards |
+| Undervalued Contract Analysis, WNBA 2024-2026 | Hidden value player evaluation + comps (salary | Notebook + charts |
 | Roster Value Framework, WNBA 2026 | Roster construction + hidden value | Notebook + charts |
 | AP Polls Pipeline, WBB 2025-26 | Automated reporting | Python pipeline + data outputs |
 | Recruiting + Development Impact, WBB | Prospect/pathway analysis | Dashboard + model outputs |
-| NCAA D1 Women's Sports Dashboard | League infrastructure analytics | Interactive dashboard, features 🏀🥎⚽🏐 | 
+| NCAA D1 Women's Sports Dashboard, 2012-2025 | League infrastructure analytics | Interactive dashboard, features 🏀🥎⚽🏐 | 
 <br>
 
 ## 💡 Current Focus
 
-Building portfolio-ready women’s basketball analytics tools that translate raw data into scouting, player development, roster planning, and storytelling decisions. I’m passionate about **elevating women’s sports** through engaging data storytelling and with deeper data. I believe that statistics shouldn’t be gatekept — they should **bring people closer to the game**.
+Looking for new opportunities in basketball analytics. Building portfolio-ready women’s basketball analytics tools that translate raw data into scouting, player development, roster planning, and storytelling decisions. I’m passionate about **elevating women’s sports** through engaging data storytelling and with deeper data. I believe that statistics shouldn’t be gatekept — they should **bring people closer to the game**.
 
 <br>
 
@@ -46,10 +46,10 @@ Building portfolio-ready women’s basketball analytics tools that translate raw
 ## 🔍  Let's Connect
 Open to helping developmental women’s basketball leagues build their analytics infrastructure.
 
-Email: hey@krystalbcreative.com  
-LinkedIn: https://www.linkedin.com/in/krystalbeasley/  
-Tableau Public: [add link]  
-Portfolio: [add link]
+**Email**: hey@krystalbcreative.com  
+**LinkedIn**: https://www.linkedin.com/in/krystalbeasley/  
+**Tableau Public**: [add link]  
+**Portfolio: [add link]
 
 
 
