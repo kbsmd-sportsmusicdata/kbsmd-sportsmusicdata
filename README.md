@@ -27,9 +27,9 @@ A lightweight analytics framework for developmental women’s basketball leagues
 
 | Project | Use Case | Output |
 |---|---|---|
-| [Development Report: Lulu Twidale (Cal)](https://github.com/kbsmd-sportsmusicdata/wbb-player-development-report) (WBB 2024-2026)| Player evaluation + development analysis, prospect/pathway analysis, decision-support analytics | Interactive notebook + player cards |
+| [Development Report: Lulu Twidale (Cal)](https://kbsmd-sportsmusicdata.github.io/wbb-player-development-report/) (WBB 2024-2026)| Player evaluation + development analysis, prospect/pathway analysis, decision-support analytics | Interactive notebook + player cards · [Project Brief](https://github.com/kbsmd-sportsmusicdata/wbb-player-development-report/blob/bde62d20c1708458b9c03e454cbc7dcc050452e8/docs/executive_summary.md) · [Repo](https://github.com/kbsmd-sportsmusicdata/wbb-player-development-report)|
 | Player Intel / Radar Profiles, WBB 2026 | Player evaluation + development | Notebook + player cards |
-| [Hidden Value Player Contract Analysis](<https://github.com/kbsmd-sportsmusicdata/hidden-value-contract-analysis>) (WNBA 2024-2026) | On/off contextual player impact + comps salary, decision-support analytics | Notebook + charts |
+| [Hidden Value Player Contract Analysis](https://kbsmd-sportsmusicdata.github.io/hidden-value-contract-analysis/) (WNBA 2024-2026) | On/off contextual player impact + comps salary, decision-support analytics | Notebook + charts · [Project Brief](https://github.com/kbsmd-sportsmusicdata/hidden-value-contract-analysis/blob/11b76af7225879bb4ffcb26b9785097c0f38e77d/docs/executive_summary.md) · [Repo](<https://github.com/kbsmd-sportsmusicdata/hidden-value-contract-analysis>) |
 | Roster Value Framework, WNBA 2026 | Roster construction + hidden value context | Notebook + charts |
 | AP Polls Pipeline, WBB 2025-26 | Automated reporting, current + historical AP Polls data | Python pipeline + data outputs |
 | Recruiting + Development Impact, WBB | Prospect/pathway analysis, decision-support analytics | Dashboard + model outputs |
@@ -56,8 +56,6 @@ Open to helping developmental women’s basketball leagues build their analytics
 
 📬 **Email**: hey@krystalbcreative.com  
 **LinkedIn**: https://www.linkedin.com/in/krystalbeasley/  
-**Tableau Public**: [add link]  
-**Portfolio**: [add link]
 
 ---
 > “A lot of people notice when you succeed, but they don't see what it takes to get there."  -  Dawn Staley
