@@ -1,6 +1,6 @@
 # 👋 Cheers, I'm Krystal — Sports Analyst. Storyteller. Stat Decoder.
 
-Women’s basketball analytics builder focused on player evaluation, scouting profiles, roster strategy, media stat packets, and data storytelling for emerging and developmental women's leagues by building decision-ready tools for lean sports organizations.
+Women’s basketball analytics builder focused on player evaluation, scouting profiles, roster strategy, media stat packets, and data storytelling for emerging and developmental women's leagues by building data-driven and decision-ready tools for lean sports organizations.
 
 <br>
 
@@ -38,7 +38,7 @@ A lightweight analytics framework for developmental women’s basketball leagues
 
 ## 💡 Current Focus
 
-Looking for new opportunities in basketball analytics. Building portfolio-ready women’s basketball analytics tools that translate raw data into scouting, player development, roster planning, and storytelling decisions. I’m passionate about **elevating women’s sports** through engaging data storytelling and with deeper data. I believe that statistics shouldn’t be gatekept — they should **bring people closer to the game**.
+Looking for new opportunities in basketball analytics. Building portfolio-ready women’s basketball analytics tools that translate raw data into scouting, player development, roster planning, and storytelling decisions. I’m passionate about **elevating women’s sports** through engaging data storytelling and deeper data. I believe that statistics shouldn’t be gatekept — they should **bring people closer to the game**.
 
 <br>
 
@@ -47,12 +47,12 @@ Looking for new opportunities in basketball analytics. Building portfolio-ready 
 - **Languages & Libraries**: Python (Pandas, NumPy, Scikit-learn), SQL, BigQuery, Google Sheets, Excel
 - **Data Viz & Dashboards**: Tableau Public, Looker Studio
 - **Workflow & Storytelling**: GitHub, Notion, Figma, AI tools
-- **Key Strengths**: Data cleaning • Basketball analysis • Visualization • Building dashboards • Sports predictive modeling • Sports statistics models • Communicating Data Insights • Editorial data stories
+- **Key Strengths**: Data Cleaning • Basketball Analysis • Interpreting Contextual Player Impact • Data Visualization • Building Dashboards • Sports Predictive Modeling • Sports Statistics Models • Communicating Data Insights • Editorial Data Stories
 
 <br>
 
 ## 🔍  Let's Connect
-Open to helping developmental women’s basketball leagues build their analytics infrastructure.
+Ready to help women’s basketball organizations build their analytics infrastructure.
 
 📬 **Email**: hey@krystalbcreative.com  
 **LinkedIn**: https://www.linkedin.com/in/krystalbeasley/  
